@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GROUP15_HW02</string>
+    <string name="forThread">For Thread:</string>
+    <string name="threadPwdCount">Select Password Count:</string>
+    <string name="threadCount" />
+    <string name="threadLength" />
+    <string name="threadPwdLength">Select Password Length:</string>
+    <string name="forAsyncTask">For AsyncTask:</string>
+    <string name="asyncPwdCount">SelectPassword Count:</string>
+    <string name="asyncCount" />
+    <string name="asyncpwdCount">Select Password Count:</string>
+    <string name="asyncPwdLength">Select Password Length:</string>
+    <string name="asyncLength" />
+    <string name="generate">Generate</string>
+    <string name="threadcount">1</string>
+    <string name="threadlength">7</string>
+    <string name="asynccount">1</string>
+    <string name="asynclength">7</string>
+    <string name="threadPwd">Passwords generated using Thread:</string>
+    <string name="asyncPwd">Passwords generated using AsyncTask:</string>
+    <string name="finish">Finish</string>
+    <string name="progressPercent" />
+    <string name="genaratingPasswords">Generating Passwords</string>
+</resources>
