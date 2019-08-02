@@ -1,4 +1,4 @@
-# Password-Generator-Andriod
+# Password-Generator-Android
 Generate password using threads and Async
 
 
